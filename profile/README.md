@@ -6,7 +6,7 @@
   <p>
     <a href="https://dreamcodefactory.com"><strong>dreamcodefactory.com</strong></a>
     ·
-    <a href="https://dreamcodefactory.com">Schedule a conversation</a>
+    <a href="https://www.dreamcodefactory.com/contact#Schedule-a-Conversation" target="_blank" rel="noopener noreferrer">Schedule a conversation</a>
   </p>
 </div>
 
@@ -45,5 +45,5 @@ From ownership to transparency, everything we do is structured for long-term suc
 <div align="center">
   <img src="./assets/logo-mark.svg" alt="" height="32" />
   <p><strong>Curious what value we can provide?</strong></p>
-  <p><a href="https://dreamcodefactory.com">Schedule a conversation →</a></p>
+  <p><a href="https://www.dreamcodefactory.com/contact#Schedule-a-Conversation" target="_blank" rel="noopener noreferrer">Schedule a conversation →</a></p>
 </div>
